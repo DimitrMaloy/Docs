@@ -10,7 +10,7 @@
           "**/obj/**",
           "**/includes/**",
           "**/aspnet-core-conceptual/**",
-          "_site2/**"
+          "_site/**"
         ]
       }
     ],
